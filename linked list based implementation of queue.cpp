@@ -3,7 +3,7 @@
 using namespace std;
 
 class queue{
-	int cs=0;
+	int cs;
 	list<int>q;
 
 public:
